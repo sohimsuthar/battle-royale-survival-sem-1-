@@ -46,9 +46,9 @@ DO NOT INSTALL ANOTHER MinGW-W64 from another source such as msys2, you don't ne
 
 ## Microsoft Visual Studio
 * Run `build-VisualStudio2022.bat`
-* double click the `.sln` file that is generated
-* develop your game
-* you are good to go
+* Double click the `.sln` file.
+* Develop your game
+* You are good to go
 
 # Linux Users
 * CD into the build folder
@@ -95,7 +95,7 @@ If you need to build for a different OpenGL version than the default (OpenGL 3.3
 `--graphics=opengles3`
 
 # License
-Copyright (c) 2020-2025 Jeffery Myers
+Copyright (c) 2020-2025 Sohim Veerani, Sheraz Ali
 
 This software is provided "as-is", without any express or implied warranty. In no event 
 will the authors be held liable for any damages arising from the use of this software.
